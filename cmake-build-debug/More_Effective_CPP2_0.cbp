@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="More_Effective_CPP2_0"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/More_Effective_CPP2.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/More_Effective_CPP2.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="More_Effective_CPP2_0">
+				<Option output="E:/More_Effective_CPP2.0/cmake-build-debug/More_Effective_CPP2_0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/More_Effective_CPP2.0/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 More_Effective_CPP2_0"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="More_Effective_CPP2_0/fast">
+				<Option output="E:/More_Effective_CPP2.0/cmake-build-debug/More_Effective_CPP2_0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/More_Effective_CPP2.0/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 More_Effective_CPP2_0/fast"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/More_Effective_CPP2.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;E:/More_Effective_CPP2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/More_Effective_CPP2.0/01.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/02.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/03.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/04.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/05.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/06.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/07.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/08.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/09.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/10.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/11.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/12.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/13.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/14.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/15.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/16.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/17.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/18.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/19.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/20.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/21.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/22.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/23.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/24.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/25.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/26.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/27.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/28.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/29.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/30.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/31.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/32..h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/33.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/34.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/35.h">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/main.cpp">
+			<Option target="More_Effective_CPP2_0"/>
+		</Unit>
+		<Unit filename="E:/More_Effective_CPP2.0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
