@@ -1,1 +1,1 @@
-"# MoreEffectiveCPP" 
+# MoreEffectiveCPP
